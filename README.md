@@ -1,5 +1,5 @@
 # Mi 8 Explorer Edition & UD BYD-Kernel For MIUI 12.5.x Version
- Mi 8 Explorer Edition & UD **BYD-Kernel** For MIUI 12.5.x Version
+ Mi 8 Explorer Edition & UD **BYD-Kernel** For MIUI 12.5.x Version.
  ***  
  **Now Github Action will automatically compile the kernel. You can download the compiled kernel through Github Action.**  
  Github Action:**[Click Here!!!](https://github.com/Coconutat/android_kernel_xiaomi_sdm845_byd_exp/actions/workflows/build_byd_kernel.yml)**  
